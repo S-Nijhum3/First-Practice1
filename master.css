@@ -1,0 +1,15 @@
+header{
+color:red;
+background-color:pink;
+text-align:center;
+}
+a:hover{
+color:yellow;
+}
+body{
+color:green;
+}
+footer{
+text-align:center;
+background-color:beige;
+}
